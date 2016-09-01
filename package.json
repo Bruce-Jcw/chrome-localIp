@@ -1,6 +1,6 @@
 {
   "name": "chrome-localIp",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "chrome extension api, get your local ip address",
   "main": "index.js",
   "scripts": {
