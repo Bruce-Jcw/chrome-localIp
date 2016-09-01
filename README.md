@@ -7,8 +7,8 @@ npm install chrome-localIp --save
 # Usage
 ```
 localIp = require('chrome-localIp')
-localIp.getIPs().then(function(ips){
-    console.log(ips)
+localIp.getIp().then(function(ip){
+    console.log(ip)
 })
 ```  
 # MIT License
